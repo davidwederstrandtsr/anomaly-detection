@@ -1,6 +1,6 @@
 
 # Continuous Variable Probabilistic Methods for Identifying Outliers
-
+---
 1. Using lemonade.csv dataset and focusing on continuous variables:
     - Use the IQR Range Rule and the upper and lower bounds to identify the lower outliers of each column of lemonade.csv, using the multiplier of 1.5. Do these lower outliers make sense?Which outliers should be kept?
     - Use the IQR Range Rule and the upper and lower bounds to identify the upper outliers of each column of lemonade.csv, using the multiplier of 1.5. Do these lower outliers make sense?Which outliers should be kept?
